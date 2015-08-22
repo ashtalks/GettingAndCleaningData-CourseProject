@@ -9,7 +9,7 @@ The script run_analysis.R performs the 5 steps described in the course project's
 6) A new dataset is generated with all the average measures for each subject and activity type.
 7) The output file is called averages_data.txt, and uploaded to this repository.
 
-Variables
+#Variables
 x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
 x_data, y_data and combine_data merge the previous datasets to further analysis.
 features contain the correct names for the x_data dataset. It is applied to the column names stored in mean_and_std_features.
